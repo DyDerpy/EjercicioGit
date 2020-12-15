@@ -17,6 +17,7 @@ public class Principal {
     public static void main(String[] args) {
         System.out.println("Estoy en la clase Principal");
         System.out.println("Del paquete ejerciciogit");
+        System.out.println("Líneas del método main");
     }
     
 }
